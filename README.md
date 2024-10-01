@@ -128,6 +128,4 @@ echo "AWS Root CA certificates have been installed successfully on macOS."
 2. **Permission Issues**: For Linux and macOS, run the script with `sudo` to install certificates at the system level.
 3. **Invalid Certificate Format**: Ensure the certificates are downloaded as `.pem` or `.crt` files, as required by the platform.
 
-## Conclusion
 
-These scripts help automate the process of installing AWS Root CA certificates to resolve trust issues in Linux, Windows, and macOS environments. If you encounter any issues or have suggestions, feel free to contribute or open an issue.
